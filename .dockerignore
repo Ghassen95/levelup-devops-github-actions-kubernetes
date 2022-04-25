@@ -1,0 +1,14 @@
+packages
+node_modules
+bin
+obj
+.vs
+.idea
+*.log
+*.tmp
+*.orig
+.env
+.venv
+appsettings.Development.json
+launchSettings.json
+k8s.yaml
